@@ -28,4 +28,22 @@ public class FizzBuzzServiceImpl implements FizzBuzzService {
         return result;
 
     }
-}
+
+    private static void printResults(MapRepository String resultMessage){
+        printWriter Writer = null;
+
+        try {
+            writer = new printWriter("fizzbuzz_result.txt");
+            writer.println(resultMessag);
+        }
+        catch(Exception e) {
+            e.printStackTrace();
+        }
+        finally {
+            if (writer != null) {
+                writer.close();
+            }
+        }
+            }
+        }
+    }

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c90c156-cce8-4f24-9872-73974b6c1bc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LAB 18 - B/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LAB 18 - B/src/ConsoleInputView.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Labnineteen/.idea/uiDesigner.xml" afterDir="false" />
@@ -32,6 +30,9 @@
       <change beforePath="$PROJECT_DIR$/../Homework16/src/TaskAssigner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework16/src/TaskAssigner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework17/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework17/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework17/src/TaskPerformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework17/src/TaskPerformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework5/src/edu/dmacc/codedsm/hw5/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/src/edu/dmacc/codedsm/hw5/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework7/src/edu/dmaccc/codedsm/Homework7/SumHundrend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework7/src/edu/dmaccc/codedsm/Homework7/SumHundrend.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework8/src/FiveValues.java" beforeDir="false" />
@@ -75,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="389">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
               <folding>
                 <element signature="e#205#206#0" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
@@ -94,7 +95,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -142,7 +143,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555949280663" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555952936238" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -224,10 +225,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -254,7 +255,7 @@
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
           <folding>
             <element signature="e#205#206#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
