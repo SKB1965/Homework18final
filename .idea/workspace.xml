@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c90c156-cce8-4f24-9872-73974b6c1bc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB 18 - B/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB 18 - B/src/ConsoleInputView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labnineteen/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labnineteen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labnineteen/src/InputView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labnineteen/src/MapRpository.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2018.3/system/workspace/development.dd2c4936.xml" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2018.3/system/workspace/development.dd2c4936.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2018.3/system/workspace/edu.dmacc.codrdsm.hw4.e8df5a7.xml" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2018.3/system/workspace/edu.dmacc.codrdsm.hw4.e8df5a7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/src/A.text-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/src/A.text-file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/src/BlackJack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/src/BlackJack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fizzbuzz/src/edu/dmacc/codedsm/hw9/GivenWhen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fizzbuzz/src/edu/dmacc/codedsm/hw9/GivenWhen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 14/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework 14/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 14A/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework 14A/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 14A/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework 14A/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework10A/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework10A/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework10A/src/DeckofCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework10A/src/DeckofCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework11/src/DeckofCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework11/src/DeckofCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework11Final/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework11Final/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework11Final/src/BlackJackGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework11Final/src/BlackJackGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework11Final2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework11Final2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework11Final2/src/edu/dmacc/codedsm/hw11Final2/CardsP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework11Final2/src/edu/dmacc/codedsm/hw11Final2/CardsP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework11Final3/src/DeckRandomizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework11Final3/src/DeckRandomizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework11Key/src/DeckRandomizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework11Key/src/DeckRandomizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework12/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework12/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework12/src/BlackJackGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework12/src/BlackJackGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework16/src/TaskAssigner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework16/src/TaskAssigner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework17/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework17/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework17/src/TaskPerformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework17/src/TaskPerformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework5/src/edu/dmacc/codedsm/hw5/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/src/edu/dmacc/codedsm/hw5/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7/src/edu/dmaccc/codedsm/Homework7/SumHundrend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework7/src/edu/dmaccc/codedsm/Homework7/SumHundrend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework8/src/FiveValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework8A/src/edu/dmacc/codedsm/hw8/arrayFiller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework8A/src/edu/dmacc/codedsm/hw8/arrayFiller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9A/src/edu/dmacc/codedsmhw9A/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9A/src/edu/dmacc/codedsmhw9A/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kokulo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kokulo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kokulo/src/Siannah.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kokulo/src/Siannah.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab #13/src/ObjectCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab #13/src/ObjectCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab #15/Vehicle" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab #15/Vehicle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 11/src/LoopProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 11/src/LoopProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 18/src/LabEighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 18/src/LabEighteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab41/src/edu/dmacc/codedsm/lab4/Week3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab41/src/edu/dmacc/codedsm/lab4/Week3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/java.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/edu/dmacc/codedsm/Lab9/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/src/edu/dmacc/codedsm/Lab9/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabWeekten/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LabWeekten/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabWeekten/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LabWeekten/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labnineteen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labnineteen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labnineteen/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Labnineteen/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/src/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Object/src/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice SKB/src/PracticeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice SKB/src/PracticeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task/src/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task/src/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tasker/src/edu/dmacc/codedsm/tasker/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasker/src/edu/dmacc/codedsm/tasker/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../User/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/StringCombiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/StringCombiner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Homework18final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework18final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework18final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework18final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework18final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework18final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework18final" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555949280663" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FizzBuzzServiceImpl">
+    <configuration name="FizzBuzzService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dmacc.codedsm.homework18final.FizzBuzzService" />
+      <module name="Homework18final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dmacc.codedsm.homework18final.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dmacc.codedsm.homework18final.FizzBuzzServiceImpl" />
+      <module name="Homework18final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dmacc.codedsm.homework18final.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FizzBuzzServiceImpl" />
+        <item itemvalue="Application.FizzBuzzService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c90c156-cce8-4f24-9872-73974b6c1bc4" name="Default Changelist" comment="" />
+      <created>1555898243354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555898243354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework18final/FizzBuzzService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
